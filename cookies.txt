@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+jordanbelfort.com	TRUE	/	FALSE	1999999999	PHPSESSID	jl2idm784440encpijus7624rk
+.hs-scripts.com	TRUE	/	FALSE	1999999999	__cfduid	dd4de59728d2dab3f81b82af4e4b48c681594168001
+js.hs-scripts.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.clickfunnels.com	TRUE	/	FALSE	1999999999	__cfduid	d391c3150b51661440fb6c3e48aa261fb1594168001
+.clickfunnels.com	TRUE	/	FALSE	1999999999	__cf_bm	97ec1a6a173bbf50b791402850780263461de6b4-1594168001-1800-AQttfcP2dRWLxcwKR5ugO9ZZzp6uCYR1ZT9PbNlY9Vr8mQLOAykrUQcue30g8fx+jsRYp5JxGwo/bC6vz/hPcDU=
+app.clickfunnels.com	TRUE	/	FALSE	1999999999	SameSite	None
+s30745.pcdn.co	TRUE	/	FALSE	1999999999	PHPSESSID	otq52duj4h8rfa32p5heu4jeko
+

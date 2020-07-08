@@ -1,0 +1,51 @@
+HTTrack3.49-2 launched on Tue, 07 Jul 2020 20:26:38 at https://jordanbelfort.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://jordanbelfort.com/ -O "/Users/sjey/desktop/JeyDaniels.Com" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:27:36	Error: 	"Not Allowed" (405) at link https://jordanbelfort.com/xmlrpc.php (from https://jordanbelfort.com/)
+20:27:37	Warning: 	Moved Permanently for app.clickfunnels.com/
+20:27:37	Warning: 	Redirected link is identical because of 'URL Hack' option: app.clickfunnels.com/ and https://app.clickfunnels.com/
+20:27:37	Warning: 	File has moved from app.clickfunnels.com/ to https://app.clickfunnels.com/
+20:27:38	Error: 	"Not Found" (404) at link js.hs-scripts.com/ (from https://jordanbelfort.com/)
+20:27:39	Error: 	"Not Found" (404) at link fonts.googleapis.com/ (from https://jordanbelfort.com/)
+20:27:40	Warning: 	Note: due to s.w.org remote robots.txt rules, links beginning with these path will be forbidden: /search, /support/rss, /archive/, /?filters (see in the options to disable this)
+20:27:40	Warning: 	Moved Permanently for s.w.org/
+20:27:40	Warning: 	File has moved from s.w.org/ to https://wordpress.org/
+20:27:41	Error: 	"Not Allowed" (405) at link https://jordanbelfort.com/xmlrpc.php?rsd (from https://jordanbelfort.com/)
+20:28:07	Warning: 	Moved Permanently for https://jordanbelfort.com/?p=1843
+20:28:07	Warning: 	File has moved from https://jordanbelfort.com/?p=1843 to https://jordanbelfort.com/about/
+20:28:07	Warning: 	Moved Permanently for https://jordanbelfort.com/?p=1866
+20:28:07	Warning: 	File has moved from https://jordanbelfort.com/?p=1866 to https://jordanbelfort.com/testimonials/
+20:28:07	Warning: 	Moved Permanently for https://jordanbelfort.com/?p=1869
+20:28:07	Warning: 	File has moved from https://jordanbelfort.com/?p=1869 to https://jordanbelfort.com/book-jordan/
+20:28:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://s30745.pcdn.co/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp
+20:28:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://s30745.pcdn.co/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1
+20:28:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://s30745.pcdn.co/wp-content/themes/Divi/core/admin/js/es6-promise.auto.min.js?ver=5.4.2
+20:28:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://s30745.pcdn.co/wp-content/themes/Divi/core/admin/js/recaptcha.js?ver=5.4.2
+20:28:09	Warning: 	HTML file (124291 bytes) retransferred due to lack of cache: https://jordanbelfort.com/wp-json/
+20:28:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://s30745.pcdn.co/wp-includes/wlwmanifest.xml
+20:28:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://jordanbelfort.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjordanbelfort.com%2F
+20:28:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://s30745.pcdn.co/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.2
+20:28:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://s30745.pcdn.co/wp-content/themes/Divi/js/custom.unified.js?ver=4.4.4
+20:28:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://s30745.pcdn.co/wp-content/themes/Divi/core/admin/js/common.js?ver=4.4.4
+20:28:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://s30745.pcdn.co/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.13-9993131
+20:28:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://s30745.pcdn.co/wp-content/plugins/cf7-conditional-fields/js/scripts.js?ver=1.9.7
+20:28:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://s30745.pcdn.co/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=5.4.2
+20:28:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://jordanbelfort.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjordanbelfort.com%2F&format=xml
+20:28:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://jordanbelfort.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjordanbelfort.com%2Fabout%2F
+20:28:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://jordanbelfort.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjordanbelfort.com%2Fabout%2F&format=xml
+20:28:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://jordanbelfort.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjordanbelfort.com%2Ftestimonials%2F
+20:28:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://jordanbelfort.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjordanbelfort.com%2Ftestimonials%2F&format=xml
+20:28:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://jordanbelfort.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjordanbelfort.com%2Fbook-jordan%2F&format=xml
+20:28:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://jordanbelfort.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjordanbelfort.com%2Fbook-jordan%2F
+20:28:58	Error: 	"" (405) at link https://jordanbelfort.com/xmlrpc.php?rsd (from https://jordanbelfort.com/)
+20:29:02	Warning: 	HTML file (777 bytes) retransferred due to lack of cache: https://jordanbelfort.com/?p=1869
+20:29:03	Warning: 	Moved Permanently for https://jordanbelfort.com/?p=1869
+20:29:03	Warning: 	File has moved from https://jordanbelfort.com/?p=1869 to https://jordanbelfort.com/book-jordan/
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 26 seconds : 138 links scanned, 142 files written (6456486 bytes overall) [3470665 bytes received at 23771 bytes/sec], 4164551 bytes transferred using HTTP compression in 85 files, ratio 25%, 3.2 requests per connection
+(5 errors, 35 warnings, 0 messages)
